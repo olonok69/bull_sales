@@ -1,7 +1,7 @@
 # bull_sales
 Quantile Regression and Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise
 
-This application use SMOGN technique to do oversampling in a regression problem. We use two predictors to predict sales values. Log transformation and Standardization is applied before training process, and we use two predictors a Xg-boost Regressor and a Neural Network with a quantile loss function
+This application use SMOGN technique to do oversampling in a regression problem. We use two predictors to predict sales values. Log transformation and Standardization is applied before training process, and we use Xg-boost Regressor and a Neural Network with a quantile loss function
 
 For Reference:
 
