@@ -1,5 +1,5 @@
 tersorflow==2.2.0
-keras==2.3.0
+keras==2.13.1
 xgboost==1.4.0
 pandas==1.1.5
 numpy==1.22.0
